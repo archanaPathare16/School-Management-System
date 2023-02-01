@@ -6,10 +6,12 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
+		<relativePath/> <!-- lookup parent from repository -->
+       
+     <!-- Chnages By DEVUSA -->
 		<relativePath/><!-- lookup parent from repository -->
 
       <!-- changes by DEVINDIA  -->
-
 	</parent>
 	<groupId>com.spring</groupId>
 	<artifactId>UserApplication-30-1-23</artifactId>
